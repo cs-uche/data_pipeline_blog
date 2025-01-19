@@ -3,8 +3,7 @@ title: "Demystifying Data Pipelines: A Comprehensive Guide for Data Enthusiasts"
 author: "Sopuruchi Chisom"
 date: "2025-01-18"
 categories: [data-pipelines, tutorials, code, analysis]
-image: "../imgs/data_pipeline.jpg"
-image-alt: "Designed by stories / Freepik (http://www.freepik.com)"
+image: "../imgs/data_pipeline_blog_cover.jpg"
 attribution: "<a href='http://www.freepik.com'>Designed by stories / Freepik</a>"
 bibliography: references.bib
 execute:
